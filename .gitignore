@@ -1,3 +1,8 @@
 .metadata/
 tasking.metadata.7z
 TC264(tasking工程).7z
+
+# Local examples and generated build output
+/Example/Motherboard_Demo/
+**/Debug/
+/Example/Beta_Demo/.project
